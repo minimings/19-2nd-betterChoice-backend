@@ -22,9 +22,9 @@ Tool : <p><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></p>
 
 ## 📑 Document
-Aquery Tool URL : https://aquerytool.com/aquerymain/index/?rurl=39e3568d-986a-4c11-860c-ed2bf8bf7177& / Password : 366k30
+Aquery Tool URL : https://aquerytool.com/aquerymain/index/?rurl=9f3b4eae-ec1e-475c-b6aa-ccc73c62ed70& / Password : i706x8
 
-API Document URL : https://documenter.getpostman.com/view/15442239/Tzef93XY
+API Document URL : https://documenter.getpostman.com/view/15442239/TzRPj99M
 
 
 ## 📝 내가 구현한 기능
