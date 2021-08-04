@@ -7,7 +7,7 @@
 ## 🗓 Period
 - 2021.04.26~2021.05.07
 
-## 👫 Team
+## 👫 Team - Backend
 - [백승찬](https://github.com/poketsc)
 - [신지원](https://github.com/jeewonn)
 - [황수민](https://github.com/miniming)
